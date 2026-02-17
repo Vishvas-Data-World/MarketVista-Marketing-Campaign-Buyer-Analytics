@@ -17,17 +17,17 @@ A retail company wants to:
 
 ## Dashboard Pages
 
-### 1. Problem Statement
-![Problem Statement](Images/a) problem_statement.jpg)
+### a) Problem Statement
+![Problem Statement](Images/a%29%20problem_statement.jpg)
 
-### 2. Campaign Performance
-![Campaign Performance](Images/b) campaign_performance.JPG)
+### b) Campaign Performance
+![Campaign Performance](Images/b%29%20campaign_performance.JPG)
 
-### 3. Buyer Composition
-![Buyer Composition](Images/c) buyer_composition.JPG)
+### c) Buyer Composition
+![Buyer Composition](Images/c%29%20buyer_composition.JPG)
 
-### 4. Purchase Drivers
-![Purchase Drivers](Images/d) purchase_drivers.JPG)
+### d) Purchase Drivers
+![Purchase Drivers](Images/d%29%20purchase_drivers.JPG)
 
 ---
 
